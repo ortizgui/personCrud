@@ -1,6 +1,6 @@
 using System;
 
-namespace PersonApi
+namespace Person.Api
 {
     public class WeatherForecast
     {
